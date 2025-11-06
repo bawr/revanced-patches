@@ -1,3 +1,10 @@
+# 1.0.0 (2025-11-06)
+
+
+### Features
+
+* **FUCK:** THIS ([e1e3312](https://github.com/bawr/revanced-patches/commit/e1e3312efcb2673754f0f6dfebbc767c4675bce8))
+
 ## [1.0.4](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.3...v1.0.4) (2024-11-05)
 
 ## [1.0.4-dev.2](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.4-dev.1...v1.0.4-dev.2) (2024-11-05)
